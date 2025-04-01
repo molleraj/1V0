@@ -1,6 +1,8 @@
 # 1V0
 1V0  (Pronounced "Ivo".)
 
+This is my local copy of Nino Ivanov's interactive numerical programming language 1V0. I will be developing Palm OS, Casio Pocket Viewer, and Casio fx-9860GII ports and uploading them to this fork of his original repository.
+
 Presented is a new programming language/virtual machine for ATTiny85, Arduino UNO/MEGA2560/DUE, ESP8266, Java MIDP 1.0/2.0 (CLDC 1.1) enabled phones, of assembler-like nature and operating on floating point (or fixed point) numbers as its exclusive data type, and with implementations in C and Java for the command line. The aim is a most portable "small mainframe in early 1940s to 1960s style" that can practically run on nearly any ever so feeble device. It shall fill the niche where BASIC interpreters are "too big" or not comfortable enough to use. Where practicable, it runs from (at least emulated) EEPROM.
 
 YouTube:  https://youtu.be/dZ4dWOTq1ac
